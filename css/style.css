@@ -1,0 +1,36 @@
+h1 {
+    width: 300px;
+}
+
+.sidenav {
+    border-color: blue;
+    border-right: solid;
+    width: 300px;
+    height: auto;
+    position: fixed;
+}
+
+.sidenav a {
+    display: block;
+    text-align: left;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.scroll {
+    width: 300px;
+    height: 550px;
+    overflow: auto;
+}
+
+#doc {
+    padding: 0px 100px 50px 360px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.code {
+    background: whitesmoke;
+    padding: 10px 0px 5px 0px;
+}
